@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #ARGV[0] is a a 4 column PeptideShaker peptide report file containing 
-peptide ID, description, sequence and PSM count
+#peptide ID, description (i.e. protein annotation), sequence and PSM count
 open(IN,$ARGV[0]); 
 while($line = <IN>) {
 	chomp $line;
