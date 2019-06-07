@@ -84,4 +84,4 @@ print STDERR "Plotting\n";
 #R is run in slave vanilla mode
 `R --slave --vanilla < plot.R`;
 #at the end the text used to build the plots is deleted.
-`rm *.cov`;
+#`rm *.cov`;
