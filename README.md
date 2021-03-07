@@ -4,6 +4,7 @@ MSUtils have been used to analyze data in the publication:
 "Antioxidant and anti-inflammatory properties of sourdoughs containing selected Lactobacilli strains are retained in breads" 
 Luti, Mazzoli,Ramazzotti, [...],Pazzagli
 Food Chemistry 322:126710. PMID: 32283363 DOI: 10.1016/j.foodchem.2020.126710
+https://pubmed.ncbi.nlm.nih.gov/32283363/
 
 <b>PS_pept_collapse.pl</b> detects peptides that are contained in other longer peptides. The PSM count of subpeptides are attributed to the longest peptides and reported. Try it using: 
 
