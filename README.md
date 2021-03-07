@@ -1,4 +1,4 @@
-MSutils is a set of perl utilities tha was written to simplify the analysis of shotgun MS peptide and protein identification performed with SearchGUI and PeptideShaker (http://compomics.github.io/projects/searchgui).
+MSutils is a set of 2 perl scripts written to simplify the analysis of shotgun MS peptide and protein identification performed with SearchGUI and PeptideShaker (http://compomics.github.io/projects/searchgui).
 
 MSUtils have been used to analyze data in the publication: 
 "Antioxidant and anti-inflammatory properties of sourdoughs containing selected Lactobacilli strains are retained in breads" 
